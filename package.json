@@ -1,0 +1,29 @@
+{
+  "name": "listatareasmern",
+  "version": "1.0.0",
+  "description": "Proyecto de listado de tareas utilizando el Stack MERN",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanmaldonado09/ListaTareasMERN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanmaldonado09/ListaTareasMERN/issues"
+  },
+  "homepage": "https://github.com/ivanmaldonado09/ListaTareasMERN#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
